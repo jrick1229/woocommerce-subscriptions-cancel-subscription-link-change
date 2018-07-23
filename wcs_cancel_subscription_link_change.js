@@ -1,0 +1,1 @@
+document.querySelector('a.button.cancel').setAttribute('href', 'http://google.com');
